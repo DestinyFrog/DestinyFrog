@@ -33,7 +33,7 @@ Da uma mergulhada no meu GitHub, aposto que vai encontrar ao menos alguma coisa 
 
 > ### Se você curte alguns *Jogos*:
 > - [Snake (Javascript)](https://destinyfrog.github.io/Snake)
-> - [Pong (Typescript)](href="https://destinyfrog.github.io/Pong)
+> - [Pong (Typescript)](https://destinyfrog.github.io/Pong)
 > - [Tetris (C)](https://github.com/DestinyFrog/Tetris-SDL2)
 > - [Snake (C)](https://github.com/DestinyFrog/Snake-SDL2)
 > - [Asteroids (Lua)](https://github.com/DestinyFrog/Snake-SDL2)
