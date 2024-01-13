@@ -32,17 +32,18 @@ Durante esse tempo já toquei em várias tecnologias, entre elas:
 Da uma mergulhada no meu GitHub, aposto que vai encontrar ao menos alguma coisa interessante.
 
 > ### Se você curte alguns *Jogos*:
-> - <a target="_blank" href="https://destinyfrog.github.io/Snake/">Snake</a>
-> - <a target="_blank" href="https://destinyfrog.github.io/Pong/">Pong</a>
-> - <a target="_blank" href="https://github.com/DestinyFrog/Tetris-SDL2">Tetris (C)</a>
-> - <a target="_blank" href="https://github.com/DestinyFrog/Snake-SDL2">Snake (C)</a>
-> - <a target="_blank" href="https://github.com/DestinyFrog/Snake-SDL2">Asteroids (Lua)</a>
+> - [Snake (Javascript)](https://destinyfrog.github.io/Snake)
+> - [Pong (Typescript)](href="https://destinyfrog.github.io/Pong)
+> - [Tetris (C)](https://github.com/DestinyFrog/Tetris-SDL2)
+> - [Snake (C)](https://github.com/DestinyFrog/Snake-SDL2)
+> - [Asteroids (Lua)](https://github.com/DestinyFrog/Snake-SDL2)
 
 > ### Em relação a *Front-end*:
-> - <a target="_blank" href="https://destinyfrog.github.io/Calculadora/">Calculadora</a>
+> - [Calculadora](https://destinyfrog.github.io/Calculadora)
 
 > ### Em relação a *Back-end*:
-> - <a target="_blank" href="https://github.com/DestinyFrog/Web-Scraping-livros">Web-Scraping de uma Lista de Livros</a>
-> - <a target="_blank" href="https://github.com/DestinyFrog/bibliotecas-typescript">Biblioteca Online (Typescript)</a>
+> - [Web-Scraping de uma Lista de Livros](https://github.com/DestinyFrog/Web-Scraping-livros)
+> - [Biblioteca Online (Typescript)](https://github.com/DestinyFrog/bibliotecas-typescript)
 
 > ### Talvez os dois (Full-Stack):
+> - [Lista de Tarefas](https://github.com/DestinyFrog/Lista-de-Tarefas---Full-Stack)
