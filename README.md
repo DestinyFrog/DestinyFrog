@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 # Olá Mundo !! 🌎
-###### Hello, World !!
 ---
 
 Meu nome é Pedro Henrique Calisto  
@@ -35,7 +34,9 @@ Da uma mergulhada no meu GitHub, aposto que vai encontrar ao menos alguma coisa 
 > ### Se você curte alguns *Jogos*:
 > - <a target="_blank" href="https://destinyfrog.github.io/Snake/">Snake</a>
 > - <a target="_blank" href="https://destinyfrog.github.io/Pong/">Pong</a>
-> - <a target="_blank" href="https://destinyfrog.github.io/Text-Grid/">Tabela de Emojis *(Nao sei um bom nome ainda)*</a>
+> - <a target="_blank" href="https://github.com/DestinyFrog/Tetris-SDL2">Tetris (C)</a>
+> - <a target="_blank" href="https://github.com/DestinyFrog/Snake-SDL2">Snake (C)</a>
+> - <a target="_blank" href="https://github.com/DestinyFrog/Snake-SDL2">Asteroids (Lua)</a>
 
 > ### Em relação a *Front-end*:
 > - <a target="_blank" href="https://destinyfrog.github.io/Calculadora/">Calculadora</a>
@@ -43,3 +44,5 @@ Da uma mergulhada no meu GitHub, aposto que vai encontrar ao menos alguma coisa 
 > ### Em relação a *Back-end*:
 > - <a target="_blank" href="https://github.com/DestinyFrog/Web-Scraping-livros">Web-Scraping de uma Lista de Livros</a>
 > - <a target="_blank" href="https://github.com/DestinyFrog/bibliotecas-typescript">Biblioteca Online (Typescript)</a>
+
+> ### Talvez os dois (Full-Stack):
