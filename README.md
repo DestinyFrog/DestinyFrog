@@ -31,7 +31,7 @@ Durante esse tempo já toquei em várias tecnologias, entre elas:
 
 Da uma mergulhada no meu GitHub, aposto que vai encontrar ao menos alguma coisa interessante.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DestinyFrog&layout=compact)](https://github.com/ali-e-n)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DestinyFrog&exclude_repo=tetris-SDL2)
 
 > ### Se você curte alguns *Jogos*:
 > - [Snake (Javascript)](https://destinyfrog.github.io/Snake)
