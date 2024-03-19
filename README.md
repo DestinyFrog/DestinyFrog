@@ -21,6 +21,7 @@ Tenho 16 anos
 E sou um pequeno apaixonado pelo mundo da programação. Eu descobri esse universo através dos jogos e a partir daí não parei.  
 Mesmo estudando a maioria das coisas sozinho, tenho um conhecimento ou outro.
 
+<!--
 Durante esse tempo já toquei em várias tecnologias, entre elas:  
 |||
 | -- | -- |
@@ -28,17 +29,24 @@ Durante esse tempo já toquei em várias tecnologias, entre elas:
 | Um dia estará no andar de cima | [![My Skills](https://skillicons.dev/icons?i=rust,cs,cpp,arduino,bash,go,git)](https://skillicons.dev) |
 | Sei algum comando ou outro 🫤 | [![My Skills](https://skillicons.dev/icons?i=c,java,php,ruby,mysql)](https://skillicons.dev) |
 | Tenho inveja de quem sabe | [![My Skills](https://skillicons.dev/icons?i=tailwind,kotlin,bootstrap)](https://skillicons.dev) |
+-->
+
+Durante esse tempo já toquei em várias tecnologias, entre elas:
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,lua,html,css)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=kotlin,go,python)](https://skillicons.dev)
 
 Da uma mergulhada no meu GitHub, aposto que vai encontrar ao menos alguma coisa interessante.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DestinyFrog&langs_count=20&layout=donut-vertical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DestinyFrog&langs_count=10&layout=donut-vertical)
 
 > ### Se você curte alguns *Jogos*:
 > - [Snake (Javascript)](https://destinyfrog.github.io/Snake)
-> - [Pong (Typescript)](https://destinyfrog.github.io/Pong)
-> - [Tetris (C)](https://github.com/DestinyFrog/Tetris-SDL2)
-> - [Snake (C)](https://github.com/DestinyFrog/Snake-SDL2)
-> - [Asteroids (Lua)](https://github.com/DestinyFrog/Snake-SDL2)
+<!-- > - > - [Asteroids (Lua)](https://github.com/DestinyFrog/Snake-SDL2) -->
+<!-- > - [Pong (Typescript)](https://destinyfrog.github.io/Pong) -->
+<!--  > - [Tetris (C)](https://github.com/DestinyFrog/Tetris-SDL2) -->
+<!-- > - [Snake (C)](https://github.com/DestinyFrog/Snake-SDL2) -->
 
 > ### Em relação a *Front-end*:
 > - [Calculadora](https://destinyfrog.github.io/Calculadora)
