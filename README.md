@@ -49,13 +49,12 @@ Da uma mergulhada no meu GitHub, aposto que vai encontrar ao menos alguma coisa 
 <!-- > - [Snake (C)](https://github.com/DestinyFrog/Snake-SDL2) -->
 
 > ### *Mobile*
-> -
-[MyMineBooker](https://destinyfrog.github.io/MyMineBooker)
+> - [MyMineBooker](https://destinyfrog.github.io/MyMineBooker)
 
-> ### Em relação a *Front-end*:
+> ### *Front-end*:
 > - [Calculadora](https://destinyfrog.github.io/Calculadora)
 
-> ### Em relação a *Back-end*:
+> ### *Back-end*:
 > - [Web-Scraping de uma Lista de Livros](https://github.com/DestinyFrog/Web-Scraping-livros)
 > - [Biblioteca Online (Typescript)](https://github.com/DestinyFrog/bibliotecas-typescript)
 
