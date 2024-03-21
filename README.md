@@ -45,7 +45,7 @@ Da uma mergulhada no meu GitHub, aposto que vai encontrar ao menos alguma coisa 
 > - [Snake (Javascript)](https://destinyfrog.github.io/Snake)
 <!-- > - > - [Asteroids (Lua)](https://github.com/DestinyFrog/Snake-SDL2) -->
 <!-- > - [Pong (Typescript)](https://destinyfrog.github.io/Pong) -->
-<!--  > - [Tetris (C)](https://github.com/DestinyFrog/Tetris-SDL2) -->
+> - [Tetris (C + SDL2)](https://github.com/DestinyFrog/tetris-SDL2)
 <!-- > - [Snake (C)](https://github.com/DestinyFrog/Snake-SDL2) -->
 
 > ### Em relação a *Front-end*:
