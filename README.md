@@ -31,6 +31,8 @@ Durante esse tempo já toquei em várias tecnologias, entre elas:
 | Tenho inveja de quem sabe | [![My Skills](https://skillicons.dev/icons?i=tailwind,kotlin,bootstrap)](https://skillicons.dev) |
 -->
 
+# Tecnologias
+
 Durante esse tempo já toquei em várias tecnologias, entre elas:
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,lua,html,css)](https://skillicons.dev)
