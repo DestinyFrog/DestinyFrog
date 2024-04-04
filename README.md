@@ -41,7 +41,7 @@ Durante esse tempo já toquei em várias tecnologias, entre elas:
 
 Da uma mergulhada no meu GitHub, aposto que vai encontrar ao menos alguma coisa interessante.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DestinyFrog&langs_count=12&layout=donut-vertical&hide=CMake,Makefile)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DestinyFrog&langs_count=12&layout=donut&hide=CMake,Makefile)
 
 > ### Se você curte alguns *Jogos*:
 > - [Snake (Javascript)](https://destinyfrog.github.io/Snake)
