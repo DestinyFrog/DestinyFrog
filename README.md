@@ -14,12 +14,17 @@ Here are some ideas to get you started:
 -->
 
 # Olá Mundo !! 🌎
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,lua,html,css)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=kotlin,go,python)](https://skillicons.dev)
+
 ---
 
 Meu nome é Pedro Henrique Calisto  
-Tenho 16 anos  
+Tenho 17 anos  
 E sou um pequeno apaixonado pelo mundo da programação. Eu descobri esse universo através dos jogos e a partir daí não parei.  
-Mesmo estudando a maioria das coisas sozinho, tenho um conhecimento ou outro.
+Mesmo estudando a maioria das coisas sozinho.
 
 <!--
 Durante esse tempo já toquei em várias tecnologias, entre elas:  
@@ -35,13 +40,23 @@ Durante esse tempo já toquei em várias tecnologias, entre elas:
 
 Durante esse tempo já toquei em várias tecnologias, entre elas:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,lua,html,css)](https://skillicons.dev)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DestinyFrog&langs_count=8&layout=donut&hide=CMake,Makefile)
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,go,python)](https://skillicons.dev)
+# Melhores Projetos
 
-Da uma mergulhada no meu GitHub, aposto que vai encontrar ao menos alguma coisa interessante.
+<style>
+  #project-tables {
+    
+  }
+</style>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DestinyFrog&langs_count=12&layout=donut&hide=CMake,Makefile)
+<div id="project-tables">
+
+| Nome | Tecnologias |
+| --- | --- |
+<tr ></tr>
+  
+</div>
 
 > ### Se você curte alguns *Jogos*:
 > - [Snake (Javascript)](https://destinyfrog.github.io/Snake)
