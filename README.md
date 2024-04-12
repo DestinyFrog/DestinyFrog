@@ -44,20 +44,6 @@ Durante esse tempo já toquei em várias tecnologias, entre elas:
 
 # Melhores Projetos
 
-<style>
-  #project-tables {
-    
-  }
-</style>
-
-<div id="project-tables">
-
-| Nome | Tecnologias |
-| --- | --- |
-<tr ></tr>
-  
-</div>
-
 > ### Se você curte alguns *Jogos*:
 > - [Snake (Javascript)](https://destinyfrog.github.io/Snake)
 <!-- > - > - [Asteroids (Lua)](https://github.com/DestinyFrog/Snake-SDL2) -->
