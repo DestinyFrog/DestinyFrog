@@ -40,7 +40,7 @@ Durante esse tempo já toquei em várias tecnologias, entre elas:
 
 Durante esse tempo já toquei em várias tecnologias, entre elas:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DestinyFrog&langs_count=12&layout=donut&hide=CMake,Makefile)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DestinyFrog&langs_count=12&layout=donut&hide=CMake,Makefile,ShaderLab)
 
 # Melhores Projetos
 
