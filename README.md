@@ -46,10 +46,9 @@ Durante esse tempo já toquei em várias tecnologias, entre elas:
 
 > ### Se você curte alguns *Jogos*:
 > - [Snake (Javascript)](https://destinyfrog.github.io/Snake)
-<!-- > - > - [Asteroids (Lua)](https://github.com/DestinyFrog/Snake-SDL2) -->
-<!-- > - [Pong (Typescript)](https://destinyfrog.github.io/Pong) -->
+> - [Asteroids (Lua)](https://github.com/DestinyFrog/Asteroids)
+> - [Pong (Typescript)](https://destinyfrog.github.io/Pong)
 > - [Tetris (C + SDL2)](https://github.com/DestinyFrog/tetris-SDL2)
-<!-- > - [Snake (C)](https://github.com/DestinyFrog/Snake-SDL2) -->
 
 > ### *Mobile*
 > - [MyMineBooker](https://destinyfrog.github.io/MyMineBooker)
