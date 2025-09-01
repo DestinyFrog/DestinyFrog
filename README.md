@@ -21,6 +21,7 @@ Mesmo estudando a maioria das coisas sozinho.
 - [Tetris - para químicos (Js)](https://destinyfrog.github.io/periodic-tetris/)
 - [Asteroids (Js)](https://destinyfrog.github.io/asteroids-web/)
 - [Asteroids (Lua)](https://github.com/DestinyFrog/asteroids-love2d)
+- [Xadrez (C)](https://github.com/DestinyFrog/xadrez-c-sdl2)
 
 ### Em Desenvolvimento
 - [Pacman (C)](https://github.com/DestinyFrog/pacman-c-sdl2)
