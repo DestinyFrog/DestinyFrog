@@ -27,6 +27,3 @@ Mesmo estudando a maioria das coisas sozinho.
 - [Pacman (C)](https://github.com/DestinyFrog/pacman-c-sdl2)
 - [CaFeINa (Js)](https://cafeina-vite.onrender.com/)
 - [Tabela Periódica (C)](https://github.com/DestinyFrog/tabela-periodica-c-sdl2)
-
-### Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DestinyFrog&langs_count=8)
